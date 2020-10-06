@@ -1,0 +1,2 @@
+"Guid","AccountId","Comments","ContactId","Description","IsEscalated","Origin","Priority","Reason","Status","Subject","SuppliedCompany","SuppliedEmail","SuppliedName","SuppliedPhone","Type"
+a865e112-b982-4c3a-ba21-a504ad4ea868,711bc286-eb09-4f34-b183-f824cfdb75ca,"#N/A",b6143c1b-475f-4ed8-80aa-4cc643efe07a,Please resolve the issue asap,false,Email,Medium,Complex functionality,New,Laptop not working,"#N/A","#N/A","#N/A","#N/A",Problem
